@@ -3,19 +3,19 @@ import React from 'react';
 export function MasterSection() {
   const photos = [
     {
-      url: './src/imgs/dpring.png',
+      url: 'imgs/dpring.png',
       alt: 'Mestre em treino',
     },
     {
-      url: './src/imgs/figueiredo.png',
+      url: 'imgs/figueiredo.png',
       alt: 'Mestre ensinando',
     },
     {
-      url: './src/imgs/junglefight.png',
+      url: 'imgs/junglefight.png',
       alt: 'Demonstração técnica',
     },
     {
-      url: './src/imgs/fotopbluta.png',
+      url: 'imgs/fotopbluta.png',
       alt: 'Competição internacional',
     },
   ];

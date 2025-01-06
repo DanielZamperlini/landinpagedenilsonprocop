@@ -11,7 +11,7 @@ export function Navbar() {
         <div className="container mx-auto px-4 py-0">
           <div className="flex justify-between items-center">
             <h1 className="text-2xl font-bold flex items-center py-0">
-              <img className="max-h-24" src="./src/imgs/logopt.png" alt="" />
+              <img className="max-h-24" src="imgs/logopt.png" alt="" />
               DENILSON PROCOP TEAM
             </h1>
             <div className="hidden md:flex space-x-6">

@@ -23,7 +23,7 @@ export function AboutUs() {
           </div>
           <div className="relative">
             <img
-              src="./src/imgs/equipe.jpg"
+              src="imgs/equipe.jpg"
               alt="Lutador de Muay Thai"
               className="rounded-lg shadow-2xl w-full h-[500px] object-cover"
             />

@@ -13,17 +13,17 @@ const images = [
     description: 'Ambiente seguro e adequado para sua prática',
   },
   {
-    url: './src/imgs/dpring.png',
+    url: 'imgs/dpring.png',
     title: 'Lutador profissional de mma',
     description: 'Com 72 lutas profissionais',
   },
   {
-    url: './src/imgs/figueiredo.png',
+    url: 'imgs/figueiredo.png',
     title: 'Amigo do campeão mundial do ufc ',
     description: 'Deivison Figueiredo',
   },
   {
-    url: './src/imgs/junglefight.png',
+    url: 'imgs/junglefight.png',
     title: 'jungle fight',
     description: 'um dos maiores eventos de luta nacional.',
   },
