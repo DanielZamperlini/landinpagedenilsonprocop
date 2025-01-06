@@ -23,7 +23,7 @@ export function AboutUs() {
           </div>
           <div className="relative">
             <img
-              src="https://cdn.discordapp.com/attachments/788414959179792424/1324567572003426485/20230412_170453.jpg?ex=67789f2e&is=67774dae&hm=acf6292355bc7229acbc91a444c2046027349323a8a52e2bda6bfc24e7159851&"
+              src="./src/imgs/equipe.jpg"
               alt="Lutador de Muay Thai"
               className="rounded-lg shadow-2xl w-full h-[500px] object-cover"
             />

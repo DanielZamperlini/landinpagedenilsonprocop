@@ -13,19 +13,19 @@ const images = [
     description: 'Ambiente seguro e adequado para sua prática',
   },
   {
-    url: 'https://media.discordapp.net/attachments/788414959179792424/1324569171648053318/image.png?ex=6778a0ab&is=67774f2b&hm=1ab77d6321e87fdde1297b93468a765c130b69db837590b517c6201e28d293ec&=&format=webp&quality=lossless&width=487&height=468',
+    url: './src/imgs/dpring.png',
     title: 'Lutador profissional de mma',
     description: 'Com 72 lutas profissionais',
   },
   {
-    url: 'https://media.discordapp.net/attachments/788414959179792424/1324572057987580014/image.png?ex=6778a35b&is=677751db&hm=82b91f8d89c5f61cd5743585e8b877e7ec8917375faaaa9d3c20d61217e1c4ae&=&format=webp&quality=lossless',
+    url: './src/imgs/figueiredo.png',
     title: 'Amigo do campeão mundial do ufc ',
     description: 'Deivison Figueiredo',
   },
   {
-    url: 'https://media.discordapp.net/attachments/788414959179792424/1324570215299944469/image.png?ex=6778a1a4&is=67775024&hm=d004f1179d1ec9a4eca2e889ff1c5a2f11cb3feecb15efa9824f346ca98cf881&=&format=webp&quality=lossless&width=466&height=468',
-    title: 'Área de Treino Moderna',
-    description: 'Equipamentos de última geração para seu desenvolvimento',
+    url: './src/imgs/junglefight.png',
+    title: 'jungle fight',
+    description: 'um dos maiores eventos de luta nacional.',
   },
   {
     url: 'https://images.unsplash.com/photo-1549060279-7e168fcee0c2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',

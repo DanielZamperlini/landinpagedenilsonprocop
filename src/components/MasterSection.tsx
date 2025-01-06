@@ -3,19 +3,19 @@ import React from 'react';
 export function MasterSection() {
   const photos = [
     {
-      url: 'https://media.discordapp.net/attachments/788414959179792424/1324569171648053318/image.png?ex=6778a0ab&is=67774f2b&hm=1ab77d6321e87fdde1297b93468a765c130b69db837590b517c6201e28d293ec&=&format=webp&quality=lossless&width=487&height=468',
+      url: './src/imgs/dpring.png',
       alt: 'Mestre em treino',
     },
     {
-      url: 'https://media.discordapp.net/attachments/788414959179792424/1324572057987580014/image.png?ex=6778a35b&is=677751db&hm=82b91f8d89c5f61cd5743585e8b877e7ec8917375faaaa9d3c20d61217e1c4ae&=&format=webp&quality=lossless',
+      url: './src/imgs/figueiredo.png',
       alt: 'Mestre ensinando',
     },
     {
-      url: 'https://media.discordapp.net/attachments/788414959179792424/1324570215299944469/image.png?ex=6778a1a4&is=67775024&hm=d004f1179d1ec9a4eca2e889ff1c5a2f11cb3feecb15efa9824f346ca98cf881&=&format=webp&quality=lossless&width=466&height=468',
+      url: './src/imgs/junglefight.png',
       alt: 'Demonstração técnica',
     },
     {
-      url: 'https://media.discordapp.net/attachments/788414959179792424/1324568706415722536/image.png?ex=677a9a7c&is=677948fc&hm=d25910dd7023b49cdfe09dac31d378a48a5ed6ca450aba433795e05bfbb4fd09&=&format=webp&quality=lossless&width=541&height=468',
+      url: './src/imgs/fotopbluta.png',
       alt: 'Competição internacional',
     },
   ];
