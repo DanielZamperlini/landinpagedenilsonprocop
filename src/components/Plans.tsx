@@ -5,16 +5,24 @@ export function Plans() {
     {
       name: 'Plano Básico',
       price: 'R$ 119,90',
-      features: ['2x por semana', 'Acesso à academia', 'Aulas em grupo'],
+      features: [
+        '2x por semana',
+        ' 1 modalidade',
+        'Acesso à academia',
+        'Aulas em grupo',
+        '20% de desconto em eventos exclusivo',
+      ],
     },
     {
       name: 'Plano Plus',
       price: 'R$ 149,90',
       features: [
         '3x por semana',
+        '1 modalidade',
+        'Funcional incluso',
         'Acesso à academia',
         'Aulas em grupo',
-        'Aulas particulares mensais',
+        '40% de desconto em eventos exclusivos',
       ],
     },
     {
@@ -23,7 +31,24 @@ export function Plans() {
       features: [
         'Livre acesso',
         'Todas as modalidades',
-        'Aulas particulares semanais',
+        'Acesso a eventos exclusivos',
+      ],
+    },
+    {
+      name: ['Plano Semestral'],
+      price: 'R$ 899,90',
+      features: [
+        'Livre acesso',
+        'Todas as modalidades',
+        'Acesso a eventos exclusivos',
+      ],
+    },
+    {
+      name: ['Plano Anual'],
+      price: 'R$ 1399,00',
+      features: [
+        'Livre acesso',
+        'Todas as modalidades',
         'Acesso a eventos exclusivos',
       ],
     },
